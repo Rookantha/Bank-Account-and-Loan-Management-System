@@ -78,14 +78,14 @@ Our case study is about the Bank management system for bank staff and manger. In
  
  <h3>Screenshots</h3>
  
- <p>Login 
-         <img src="screenshot/log.jpg"  alt="screenshot"/><p>
- <p>Manager Dashboard
-          <img src="screenshot/manager.jpg"  alt="screenshot"/><p>  
- <p>Main Dashboard
-          <img src="screenshot/main.jpg"  alt="screenshot"/><p>
- <p>Bank Account Creation Form
-          <img src="screenshot/newAcc.jpg"  alt="screenshot"/><p>                
+ <p>Login <p>
+        <p> <img src="screenshot/log.jpg"  alt="screenshot"/><p>
+ <p>Manager Dashboard<p>
+         <p> <img src="screenshot/manager.jpg"  alt="screenshot"/><p>  
+ <p>Main Dashboard<p>
+         <p> <img src="screenshot/main.jpg"  alt="screenshot"/><p>
+ <p>Bank Account Creation Form<p>
+          <p><img src="screenshot/newAcc.jpg"  alt="screenshot"/><p>                
  <p>Loan Account Creation Form<p>
           <p><img src="screenshot/loan.jpg"  alt="screenshot"/><p>   
  <p>Transactions Form<p>                                                
