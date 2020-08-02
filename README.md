@@ -86,12 +86,14 @@ Our case study is about the Bank management system for bank staff and manger. In
           <img src="screenshot/main.jpg"  alt="screenshot"/><p>
  <p>Bank Account Creation Form
           <img src="screenshot/newAcc.jpg"  alt="screenshot"/><p>                
- <p>Loan Account Creation Form
-          <img src="screenshot/loan.jpg"  alt="screenshot"/><p>   
- <p>Transactions Form                                                
-          <img src="screenshot/last.jpg"  alt="screenshot"/><p>                                               
+ <p>Loan Account Creation Form<p>
+          <p><img src="screenshot/loan.jpg"  alt="screenshot"/><p>   
+ <p>Transactions Form<p>                                                
+        <p>  <img src="screenshot/last.jpg"  alt="screenshot"/><p>                                               
 
 
+<h3>Conclusion</h3>
+<p>As a summary in here we proposed fully working banking system for Managing accounts and loans. All the database connection and exceptions are functioning properly. Therefore, in concluding we as a group who have tested this application with various methods think that this application will suite for a bank to implement to a real-world banking system.<p>
 
 
 
