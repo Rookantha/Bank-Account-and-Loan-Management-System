@@ -1,6 +1,7 @@
 # Bank-Account-and-Loan-Management-System
 <h2>The system is designed using object-oriented modeling and object-oriented design.</h2>
-<img src="Screenshot/log.jpg"  alt="Screenshot"/>
+<img src="screenshot/log.jpg"  alt="screenshot"/>
+
 <h2>Introduction</h2>
         <p>Day by day existing technologies is getting developed while new technologies have emerged. In order to work ease, the busy lifestyle people tend to use modern technologies. Once we move on to software applications there are various types of software applications that help people for achieving their needs.
 Our case study is about the Bank management system for bank staff and manger. In this project, we have tried to illustrate the procedures of a banking system that cover the basic functionalities including Bank Account creations and Loan  Management.<p>
@@ -70,25 +71,25 @@ Our case study is about the Bank management system for bank staff and manger. In
 </ul>  
 
 <h3>Use Case Diagram </h3>
-<p><img src="Screenshot/Usecase.jpg"  alt="Screenshot"/><p>
+<p><img src="screenshot/Usecase.jpg"  alt="screenshot"/><p>
         
 <h3>class Diagram </h3> 
-<p><img src="Screenshot/class.jpg"  alt="Screenshot"/><p>
+<p><img src="screenshot/class.jpg"  alt="screenshot"/><p>
  
  <h3>Screenshots</h3>
  
  <p>Login 
-         <img src="Screenshot/log.jpg"  alt="Screenshot"/><p>
+         <img src="screenshot/log.jpg"  alt="screenshot"/><p>
  <p>Manager Dashboard
-          <img src="Screenshot/manager.jpg"  alt="Screenshot"/><p>  
+          <img src="screenshot/manager.jpg"  alt="screenshot"/><p>  
  <p>Main Dashboard
-          <img src="Screenshot/main.jpg"  alt="Screenshot"/><p>
+          <img src="screenshot/main.jpg"  alt="screenshot"/><p>
  <p>Bank Account Creation Form
-          <img src="Screenshot/newAcc.jpg"  alt="Screenshot"/><p>                
+          <img src="screenshot/newAcc.jpg"  alt="screenshot"/><p>                
  <p>Loan Account Creation Form
-          <img src="Screenshot/loan.jpg"  alt="Screenshot"/><p>   
+          <img src="screenshot/loan.jpg"  alt="screenshot"/><p>   
  <p>Transactions Form                                                
-          <img src="Screenshot/last.jpg"  alt="Screenshot"/><p>                                               
+          <img src="screenshot/last.jpg"  alt="screenshot"/><p>                                               
 
 
 
